@@ -14,7 +14,10 @@ This is the repository for the following research paper at AIED 2025:
 appendix/
 - Full typology of learner errors
 - Guideline document for the error annotation and feedback writing task
-- Guideline document for the feedback rating task
+- Guideline document used by teachers in the feedback rating task
+
+feedback_dataset/
+- The dataset of 456 sentences described in the paper, annotated by 2 annotators in 3 batches
 ```
 
 ## Citation
