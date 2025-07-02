@@ -18,6 +18,10 @@ appendix/
 
 feedback_dataset/
 - The dataset of 456 sentences described in the paper, annotated by 2 annotators in 3 batches
+
+templates/
+- Collection of 149 manually-created feedback templates used in the experiment
+- Ground-truth reference templates for the "train" (batches 1 and 2) and "test" (batch 3) settings
 ```
 
 ## Citation
