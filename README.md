@@ -17,12 +17,17 @@ appendix/
 - Guideline document used by teachers in the feedback rating task
 
 feedback_dataset/
-- The dataset of 456 sentences described in the paper, annotated by 2 annotators in 3 batches
+- Dataset of 456 learner sentences and feedback comments described in the paper, annotated by 2 annotators in 3 batches
+
+rating_dataset/
+- Dataset of 2312 manual expert ratings for the human-written feedback and AI-generated feedback. Each example was evalated by two of a group of 4 English teachers
 
 templates/
 - Collection of 149 manually-created feedback templates used in the experiment
 - Ground-truth reference templates for the "train" (batches 1 and 2) and "test" (batch 3) settings
 ```
+
+Note that while feedback was written and generated for both "train" and "test" sets, the human evaluations were only performed on the test set (i.e., batch 3).
 
 ## Citation
 
