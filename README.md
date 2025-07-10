@@ -25,6 +25,15 @@ rating_dataset/
 templates/
 - Collection of 149 manually-created feedback templates used in the experiment
 - Ground-truth reference templates for the "train" (batches 1 and 2) and "test" (batch 3) settings
+
+fb_setting_outputs/
+- AI-generated feedback from 5 different systems, plus human feedback for reference. Separated into "train" (batches 1 & 2) and "test" (batch 3)
+
+reference_tags/
+- Map of ground-truth EXPECT and ERRANT tags for each example, used in the feedback generation experiments
+
+prompts.py
+- The prompts used by the feedback generation systems
 ```
 
 Note that while feedback was written and generated for both "train" and "test" sets, the human evaluations were only performed on the test set (i.e., batch 3).
