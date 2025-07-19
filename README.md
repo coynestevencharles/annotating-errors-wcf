@@ -8,6 +8,14 @@ This repository contains the appendix and datasets detailed in the following res
 >
 > In: Artificial Intelligence in Education. AIED 2025.
 
+## Introduction
+
+When learners of English make grammatical errors, teachers may provide written corrective feedback. Our paper explores the use of LLMs to automatically generate feedback comments. To encourage high-quality feedback, we focus on detailed data annotation, specifically **error type**, **grammatical generalizability** and their relationship to the **directness** of feedback. Ideal systems would give hints and direct corrections in the same circumstances that human English teachers do:
+
+![Comparison of two kinds of grammatical errors and the feedback for each, demonstrating the use of hints for generalizable errors and direct corrections for vocab-based, non-generalizable errors.](pics/fb_figure.png)
+
+Our work contributes a dataset of feedback comments on learner errors, a [new typology of error types](https://github.com/coynestevencharles/annotating-errors-wcf/blob/main/appendix/full_typology.pdf) that focuses on the learner's underlying knowledge gap, and a dataset of AI-generated feedback comments manually rated by experienced teachers of English as a second or foreign language.
+
 ## Contents
 
 ```md
