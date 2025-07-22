@@ -187,17 +187,25 @@ Details on the rating task can be found in our [Rating Guidelines document](http
 
 ```bibtex
 @inproceedings{coyne-2025-annotating,
-title = "Annotating Errors in English Learners' Written Language Production: Advancing Automated Written Feedback Systems",
-author = "Coyne, Steven
+title="Annotating Errors in English Learners' Written Language Production: Advancing Automated Written Feedback Systems",
+author="Coyne, Steven
     and Galvan-Sosa, Diana
     and Spring, Ryan
-    and Guerraoui, Camélia
+    and Guerraoui, Cam{\'e}lia
     and Zock, Michael
     and Sakaguchi, Keisuke
     and Inui, Kentaro",
+editor="Cristea, Alexandra I.
+    and Walker, Erin
+    and Lu, Yu
+    and Santos, Olga C.
+    and Isotani, Seiji",
 booktitle="Artificial Intelligence in Education",
-year = "2025",
-publisher = "Springer Nature Switzerland",
-address = "Cham",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="292--306",
+doi="10.1007/978-3-031-98459-4_21",
+isbn="978-3-031-98459-4"
 }
 ```
