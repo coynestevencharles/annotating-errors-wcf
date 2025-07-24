@@ -1,12 +1,12 @@
 # Annotating Learner Errors for Automated Feedback
 
-This repository contains the appendix and datasets detailed in the following research paper presented at AIED 2025:
+This repository contains the appendix and datasets detailed in the following research paper presented at [AIED 2025](https://aied2025.itd.cnr.it/):
 
 > Annotating Errors in English Learners' Written Language Production: Advancing Automated Written Feedback Systems
 >
 > Steven Coyne, Diana Galvan-Sosa, Ryan Spring, Camélia Guerraoui, Michael Zock, Keisuke Sakaguchi and Kentaro Inui
->
-> In: Artificial Intelligence in Education. AIED 2025.
+
+You can [read the full paper here](https://doi.org/10.1007/978-3-031-98459-4_21).
 
 ## Introduction
 
